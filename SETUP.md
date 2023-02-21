@@ -1,4 +1,4 @@
-Legend: ''' don't copy, signs just show what to paste in 
+Legend: ''' > don't copy: signs just show what to paste in 
 
 ----------------------------------------------------------
 
