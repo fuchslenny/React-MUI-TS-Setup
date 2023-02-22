@@ -5,6 +5,7 @@ Legend: ''' > don't copy: signs just show what to paste in
 yarn create react-app name-app --template typescript
 
 cd name-app
+
 code .
 
 --> open Terminal in VSCODE and type in 
